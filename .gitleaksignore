@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
+# Public UUIDv5 worked example (januskey -> e216170e-ff47-5a5c-bbdd-15e61c8190c8),
+# not a credential. Suppress only this historical generic-api-key finding.
+71271371e8464c8bd0674b9752a28fb6f7d2b6c8:build/templates/CLADE.a2ml.in:generic-api-key:21
